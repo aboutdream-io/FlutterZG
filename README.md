@@ -14,3 +14,7 @@ Thanks for joining us. Here you can find slides and accompanying materials for t
 ### Meetup 20.02.2019.
 
 * [Streams, RxDart and BLoC](https://github.com/ImplementacijaSnova/FlutterZG/blob/master/flutterzg-3/flutterzg_3_presentation.pdf)
+
+### Meetup 30.05.2019.
+
+* [Flutter Create](https://github.com/ImplementacijaSnova/FlutterZG/blob/master/flutterzg-5/flutterzg_5_presentation.pdf)
