@@ -18,3 +18,7 @@ Thanks for joining us. Here you can find slides and accompanying materials for t
 ### Meetup 30.05.2019.
 
 * [Flutter Create](https://github.com/ImplementacijaSnova/FlutterZG/blob/master/flutterzg-5/flutterzg_5_presentation.pdf)
+
+### Meetup 26.09.2019.
+
+* [Social login and basic login with BLoC](https://github.com/ImplementacijaSnova/FlutterZG/blob/master/flutterzg-6/flutterzg_6_presentation.pdf)
