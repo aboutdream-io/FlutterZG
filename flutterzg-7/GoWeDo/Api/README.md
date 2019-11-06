@@ -1,0 +1,5 @@
+GoWeDo API Django project. To use this api there are several things to keep in mind. 
+First of all, this project uses pipenv tool (https://pipenv-fork.readthedocs.io/en/latest/) to launch a virtual environment specified for the project and to handle installation of additional packages required for the project to run properly. 
+Second, to create a new virtualenvironment, in terminal run "pipenv install" in the root folder (api). Then, type "pipenv sync" so you can install all required packages from Pipfile.lock. When you have successfuly completed given tasks, run "pipenv shell" to activate a virtualenvironment. 
+Keep in mind that the project needs .env file that keeps environment variables which are required for project to run properly. 
+.env.example file shows what variables should exist. After successfully activating a virtualenvironment, change directory to gowedo/ in your terminal and run "python manage.py runserver" to start the server (api).
