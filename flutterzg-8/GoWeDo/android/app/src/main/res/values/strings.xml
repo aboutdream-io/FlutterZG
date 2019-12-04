@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">GoWeDo</string>
+    <string name="facebook_app_id">531951874233021</string>
+    <string name="fb_login_protocol_scheme">fb531951874233021</string>
+</resources>
