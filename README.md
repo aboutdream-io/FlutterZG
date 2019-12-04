@@ -26,3 +26,7 @@ Thanks for joining us. Here you can find slides and accompanying materials for t
 ### Meetup 30.10.2019.
 
 * [Creating new posts and showing created posts in the list](https://github.com/ImplementacijaSnova/FlutterZG/blob/master/flutterzg-7/flutterzg_7_presentation.pdf)
+
+### Meetup 29.11.2019.
+
+* [Push notifications configuration and usage](https://github.com/ImplementacijaSnova/FlutterZG/blob/master/flutterzg-8/flutterzg_8_presentation.pdf)
