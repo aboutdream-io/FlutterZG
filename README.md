@@ -30,3 +30,8 @@ Thanks for joining us. Here you can find slides and accompanying materials for t
 ### Meetup 29.11.2019.
 
 * [Push notifications configuration and usage](https://github.com/ImplementacijaSnova/FlutterZG/blob/master/flutterzg-8/flutterzg_8_presentation.pdf)
+
+### Meetup 30.01.2020.
+
+* [What's new in new Flutter's stable release](https://github.com/ImplementacijaSnova/FlutterZG/blob/master/flutterzg-9/flutterzg_9_presentation.pdf)
+* [Flutter Web](https://github.com/ImplementacijaSnova/FlutterZG/blob/master/flutterzg-9/fw&fec.pdf)
