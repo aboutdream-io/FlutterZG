@@ -35,3 +35,8 @@ Thanks for joining us. Here you can find slides and accompanying materials for t
 
 * [What's new in new Flutter's stable release](https://github.com/ImplementacijaSnova/FlutterZG/blob/master/flutterzg-9/flutterzg_9_presentation.pdf)
 * [Flutter Web](https://github.com/ImplementacijaSnova/FlutterZG/blob/master/flutterzg-9/fw&fec.pdf)
+
+### Meetup 29.04.2020.
+
+* [Introduction to Provider](https://github.com/ImplementacijaSnova/FlutterZG/blob/master/flutterzg-10/flutterzg_10_presentation.pdf)
+
