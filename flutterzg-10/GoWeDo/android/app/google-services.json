@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "1075917403216",
+    "firebase_url": "https://gowedo-7a044.firebaseio.com",
+    "project_id": "gowedo-7a044",
+    "storage_bucket": "gowedo-7a044.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1075917403216:android:ee2f9c518c5d6e16ba8d55",
+        "android_client_info": {
+          "package_name": "hr.dreamimpl.gowedo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1075917403216-d9rs4kkdk04co4juqlqcepe1ok3qccd1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "hr.dreamimpl.gowedo",
+            "certificate_hash": "8ebd9fc6c371a1a35dcc514c824da58c2e88a986"
+          }
+        },
+        {
+          "client_id": "1075917403216-44nvtlh75vhdrg802vcg76co7pj6hh1j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "hr.dreamimpl.gowedo",
+            "certificate_hash": "48e8a39e649bb3438c4d2960ede737e19704dd4c"
+          }
+        },
+        {
+          "client_id": "1075917403216-9i3q3dnv66viiifmgvqp9m3vqft9i55e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrOMCfv1up-FOje-i3JkLyq33Ne_U-ZNc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1075917403216-9i3q3dnv66viiifmgvqp9m3vqft9i55e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
